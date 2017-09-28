@@ -1,0 +1,3024 @@
+fileFormatVersion: 2
+guid: b9703ecb7606a7945a3564dd74962b26
+timeCreated: 1488236354
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: samurai_0
+    21300002: samurai_1
+    21300004: samurai_2
+    21300006: samurai_3
+    21300008: samurai_4
+    21300010: samurai_5
+    21300012: samurai_6
+    21300014: samurai_7
+    21300016: samurai_8
+    21300018: samurai_9
+    21300020: samurai_10
+    21300022: samurai_11
+    21300024: samurai_12
+    21300026: samurai_13
+    21300028: samurai_14
+    21300030: samurai_15
+    21300032: samurai_16
+    21300034: samurai_17
+    21300036: samurai_18
+    21300038: samurai_19
+    21300040: samurai_20
+    21300042: samurai_21
+    21300044: samurai_22
+    21300046: samurai_23
+    21300048: samurai_24
+    21300050: samurai_25
+    21300052: samurai_26
+    21300054: samurai_27
+    21300056: samurai_28
+    21300058: samurai_29
+    21300060: samurai_30
+    21300062: samurai_31
+    21300064: samurai_32
+    21300066: samurai_33
+    21300068: samurai_34
+    21300070: samurai_35
+    21300072: samurai_36
+    21300074: samurai_37
+    21300076: samurai_38
+    21300078: samurai_39
+    21300080: samurai_40
+    21300082: samurai_41
+    21300084: samurai_42
+    21300086: samurai_43
+    21300088: samurai_44
+    21300090: samurai_45
+    21300092: samurai_46
+    21300094: samurai_47
+    21300096: samurai_48
+    21300098: samurai_49
+    21300100: samurai_50
+    21300102: samurai_51
+    21300104: samurai_52
+    21300106: samurai_53
+    21300108: samurai_54
+    21300110: samurai_55
+    21300112: samurai_56
+    21300114: samurai_57
+    21300116: samurai_58
+    21300118: samurai_59
+    21300120: samurai_60
+    21300122: samurai_61
+    21300124: samurai_62
+    21300126: samurai_63
+    21300128: samurai_64
+    21300130: samurai_65
+    21300132: samurai_66
+    21300134: samurai_67
+    21300136: samurai_68
+    21300138: samurai_69
+    21300140: samurai_70
+    21300142: samurai_71
+    21300144: samurai_72
+    21300146: samurai_73
+    21300148: samurai_74
+    21300150: samurai_75
+    21300152: samurai_76
+    21300154: samurai_77
+    21300156: samurai_78
+    21300158: samurai_79
+    21300160: samurai_80
+    21300162: samurai_81
+    21300164: samurai_82
+    21300166: samurai_83
+    21300168: samurai_84
+    21300170: samurai_85
+    21300172: samurai_86
+    21300174: samurai_87
+    21300176: samurai_88
+    21300178: samurai_89
+    21300180: samurai_90
+    21300182: samurai_91
+    21300184: samurai_92
+    21300186: samurai_93
+    21300188: samurai_94
+    21300190: samurai_95
+    21300192: samurai_96
+    21300194: samurai_97
+    21300196: samurai_98
+    21300198: samurai_99
+    21300200: samurai_100
+    21300202: samurai_101
+    21300204: samurai_102
+    21300206: samurai_103
+    21300208: samurai_104
+    21300210: samurai_105
+    21300212: samurai_106
+    21300214: samurai_107
+    21300216: samurai_108
+    21300218: samurai_109
+    21300220: samurai_110
+    21300222: samurai_111
+    21300224: samurai_112
+    21300226: samurai_113
+    21300228: samurai_114
+    21300230: samurai_115
+    21300232: samurai_116
+    21300234: samurai_117
+    21300236: samurai_118
+    21300238: samurai_119
+    21300240: samurai_120
+    21300242: samurai_121
+    21300244: samurai_122
+    21300246: samurai_123
+    21300248: samurai_124
+    21300250: samurai_125
+    21300252: samurai_126
+    21300254: samurai_127
+    21300256: samurai_128
+    21300258: samurai_129
+    21300260: samurai_130
+    21300262: samurai_131
+    21300264: samurai_132
+    21300266: samurai_133
+    21300268: samurai_134
+    21300270: samurai_135
+    21300272: samurai_136
+    21300274: samurai_137
+    21300276: samurai_138
+    21300278: samurai_139
+    21300280: samurai_140
+    21300282: samurai_141
+    21300284: samurai_142
+    21300286: samurai_143
+    21300288: samurai_144
+    21300290: samurai_145
+    21300292: samurai_146
+    21300294: samurai_147
+    21300296: samurai_148
+    21300298: samurai_149
+    21300300: samurai_150
+    21300302: samurai_151
+    21300304: samurai_152
+    21300306: samurai_153
+    21300308: samurai_154
+    21300310: samurai_155
+    21300312: samurai_156
+    21300314: samurai_157
+    21300316: samurai_158
+    21300318: samurai_159
+    21300320: samurai_160
+    21300322: samurai_161
+    21300324: samurai_162
+    21300326: samurai_163
+    21300328: samurai_164
+    21300330: samurai_165
+    21300332: samurai_166
+    21300334: samurai_167
+    21300336: samurai_168
+    21300338: samurai_169
+    21300340: samurai_170
+    21300342: samurai_171
+    21300344: samurai_172
+    21300346: samurai_173
+    21300348: samurai_174
+    21300350: samurai_175
+    21300352: samurai_176
+    21300354: samurai_177
+    21300356: samurai_178
+    21300358: samurai_179
+    21300360: samurai_180
+    21300362: samurai_181
+    21300364: samurai_182
+    21300366: samurai_183
+    21300368: samurai_184
+    21300370: samurai_185
+    21300372: samurai_186
+    21300374: samurai_187
+    21300376: samurai_188
+    21300378: samurai_189
+    21300380: samurai_190
+    21300382: samurai_191
+    21300384: samurai_192
+    21300386: samurai_193
+    21300388: samurai_194
+    21300390: samurai_195
+    21300392: samurai_196
+    21300394: samurai_197
+    21300396: samurai_198
+    21300398: samurai_199
+    21300400: samurai_200
+    21300402: samurai_201
+    21300404: samurai_202
+    21300406: samurai_203
+    21300408: samurai_204
+    21300410: samurai_205
+    21300412: samurai_206
+    21300414: samurai_207
+    21300416: samurai_208
+    21300418: samurai_209
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: samurai_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 3847
+        width: 110
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_1
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 3847
+        width: 113
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_2
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 3847
+        width: 121
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_3
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 3847
+        width: 129
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_4
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 3847
+        width: 140
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_5
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 3847
+        width: 145
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_6
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 3847
+        width: 113
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_7
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 3847
+        width: 115
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_8
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 3847
+        width: 121
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_9
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 3847
+        width: 129
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_10
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 3847
+        width: 141
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_11
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 3847
+        width: 145
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_12
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 3848
+        width: 115
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_13
+      rect:
+        serializedVersion: 2
+        x: 3443
+        y: 3848
+        width: 137
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_14
+      rect:
+        serializedVersion: 2
+        x: 3701
+        y: 3848
+        width: 137
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_15
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 3590
+        width: 131
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_16
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 3590
+        width: 141
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_17
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 3590
+        width: 137
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_18
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 3590
+        width: 115
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_19
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 3590
+        width: 134
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_20
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 3590
+        width: 139
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_21
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 3590
+        width: 129
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_22
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 3590
+        width: 140
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_23
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 3590
+        width: 137
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_24
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 3589
+        width: 107
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_25
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 3589
+        width: 107
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_26
+      rect:
+        serializedVersion: 2
+        x: 2899
+        y: 3588
+        width: 122
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_27
+      rect:
+        serializedVersion: 2
+        x: 3171
+        y: 3588
+        width: 122
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_28
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 3591
+        width: 109
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_29
+      rect:
+        serializedVersion: 2
+        x: 3675
+        y: 3591
+        width: 109
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3333
+        width: 196
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 3333
+        width: 196
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_32
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 3332
+        width: 141
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_33
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 3330
+        width: 152
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_34
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 3332
+        width: 141
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_35
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 3330
+        width: 151
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_36
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 3331
+        width: 194
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_37
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 3328
+        width: 180
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_38
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 3331
+        width: 193
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_39
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 3330
+        width: 179
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_40
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 3332
+        width: 162
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_41
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 3332
+        width: 160
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_42
+      rect:
+        serializedVersion: 2
+        x: 3116
+        y: 3332
+        width: 160
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_43
+      rect:
+        serializedVersion: 2
+        x: 3378
+        y: 3332
+        width: 159
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_44
+      rect:
+        serializedVersion: 2
+        x: 3688
+        y: 3332
+        width: 157
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_45
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 3074
+        width: 162
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_46
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 3074
+        width: 157
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_47
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 3074
+        width: 162
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_48
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 3074
+        width: 134
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_49
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 3074
+        width: 132
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_50
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 3074
+        width: 134
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_51
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 3074
+        width: 134
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_52
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 3074
+        width: 141
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_53
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 3074
+        width: 140
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_54
+      rect:
+        serializedVersion: 2
+        x: 2363
+        y: 3074
+        width: 141
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_55
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 3074
+        width: 140
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_56
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 3064
+        width: 155
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_57
+      rect:
+        serializedVersion: 2
+        x: 3158
+        y: 3064
+        width: 155
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_58
+      rect:
+        serializedVersion: 2
+        x: 3395
+        y: 3064
+        width: 192
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_59
+      rect:
+        serializedVersion: 2
+        x: 3637
+        y: 3064
+        width: 192
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_60
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2837
+        width: 134
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_61
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2816
+        width: 119
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_62
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 2837
+        width: 134
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_63
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 2816
+        width: 118
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_64
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2837
+        width: 134
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_65
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2816
+        width: 131
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_66
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 2837
+        width: 134
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_67
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 2816
+        width: 130
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_68
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 2815
+        width: 99
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_69
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 2815
+        width: 98
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_70
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 2815
+        width: 100
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_71
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 2815
+        width: 98
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_72
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 2815
+        width: 98
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_73
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 2815
+        width: 100
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_74
+      rect:
+        serializedVersion: 2
+        x: 3699
+        y: 2815
+        width: 98
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_75
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2557
+        width: 98
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_76
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2558
+        width: 126
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_77
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 2558
+        width: 127
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_78
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 2558
+        width: 127
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_79
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 2558
+        width: 126
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_80
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 2558
+        width: 127
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_81
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 2558
+        width: 126
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_82
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 2558
+        width: 128
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_83
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 2558
+        width: 129
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_84
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 2569
+        width: 129
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_85
+      rect:
+        serializedVersion: 2
+        x: 2651
+        y: 2569
+        width: 129
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_86
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 2570
+        width: 157
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_87
+      rect:
+        serializedVersion: 2
+        x: 3139
+        y: 2570
+        width: 157
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_88
+      rect:
+        serializedVersion: 2
+        x: 3425
+        y: 2561
+        width: 115
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_89
+      rect:
+        serializedVersion: 2
+        x: 3684
+        y: 2561
+        width: 115
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_90
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2304
+        width: 118
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_91
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2304
+        width: 118
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_92
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2316
+        width: 129
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_93
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 2316
+        width: 129
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_94
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 2316
+        width: 134
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_95
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2316
+        width: 134
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_96
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 2316
+        width: 146
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_97
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 2316
+        width: 146
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_98
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 2317
+        width: 152
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_99
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 2317
+        width: 152
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_100
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 2296
+        width: 118
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_101
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 2296
+        width: 118
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_102
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 2296
+        width: 184
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_103
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 2296
+        width: 184
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_104
+      rect:
+        serializedVersion: 2
+        x: 3667
+        y: 2314
+        width: 133
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_105
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2056
+        width: 133
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_106
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2052
+        width: 145
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_107
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 2052
+        width: 145
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_108
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 2056
+        width: 130
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_109
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 2057
+        width: 130
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_110
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 2046
+        width: 163
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_111
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 2040
+        width: 171
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_112
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 2056
+        width: 130
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_113
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 2057
+        width: 131
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_114
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 2046
+        width: 163
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_115
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 2040
+        width: 171
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_116
+      rect:
+        serializedVersion: 2
+        x: 2916
+        y: 2041
+        width: 114
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_117
+      rect:
+        serializedVersion: 2
+        x: 3162
+        y: 2041
+        width: 114
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_118
+      rect:
+        serializedVersion: 2
+        x: 3423
+        y: 2044
+        width: 126
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_119
+      rect:
+        serializedVersion: 2
+        x: 3694
+        y: 2042
+        width: 105
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_120
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1785
+        width: 100
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_121
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1786
+        width: 116
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_122
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1795
+        width: 126
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_123
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1787
+        width: 109
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_124
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1788
+        width: 103
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_125
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1790
+        width: 114
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_126
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1786
+        width: 126
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_127
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 1784
+        width: 107
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_128
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1785
+        width: 101
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_129
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 1786
+        width: 116
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_130
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 1795
+        width: 128
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_131
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 1787
+        width: 111
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_132
+      rect:
+        serializedVersion: 2
+        x: 3167
+        y: 1788
+        width: 102
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_133
+      rect:
+        serializedVersion: 2
+        x: 3425
+        y: 1790
+        width: 115
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_134
+      rect:
+        serializedVersion: 2
+        x: 3666
+        y: 1787
+        width: 142
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_135
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1527
+        width: 123
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_136
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1528
+        width: 114
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_137
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1528
+        width: 142
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_138
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1538
+        width: 152
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_139
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1529
+        width: 138
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_140
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1528
+        width: 126
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_141
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 1532
+        width: 115
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_142
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 1528
+        width: 143
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_143
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1527
+        width: 123
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_144
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 1528
+        width: 112
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_145
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1529
+        width: 142
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_146
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1536
+        width: 153
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_147
+      rect:
+        serializedVersion: 2
+        x: 3138
+        y: 1529
+        width: 138
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_148
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1530
+        width: 127
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_149
+      rect:
+        serializedVersion: 2
+        x: 3683
+        y: 1532
+        width: 114
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_150
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1271
+        width: 182
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_151
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1270
+        width: 191
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_152
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1280
+        width: 199
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_153
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1272
+        width: 191
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_154
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1271
+        width: 181
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_155
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1270
+        width: 191
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_156
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 1280
+        width: 200
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_157
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 1272
+        width: 191
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_158
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 1268
+        width: 106
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_159
+      rect:
+        serializedVersion: 2
+        x: 2391
+        y: 1268
+        width: 106
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_160
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 1268
+        width: 129
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_161
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 1268
+        width: 129
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_162
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 1268
+        width: 144
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_163
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 1268
+        width: 156
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_164
+      rect:
+        serializedVersion: 2
+        x: 3689
+        y: 1268
+        width: 164
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_165
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1010
+        width: 170
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_166
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1010
+        width: 144
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_167
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1008
+        width: 154
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_168
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1010
+        width: 164
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_169
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1010
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_170
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1009
+        width: 127
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_171
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1009
+        width: 144
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_172
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1009
+        width: 159
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_173
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 1008
+        width: 173
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_174
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 1009
+        width: 127
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_175
+      rect:
+        serializedVersion: 2
+        x: 2614
+        y: 1009
+        width: 144
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_176
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 1008
+        width: 159
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_177
+      rect:
+        serializedVersion: 2
+        x: 3098
+        y: 1009
+        width: 173
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_178
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 1009
+        width: 98
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_179
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 1009
+        width: 102
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_180
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 751
+        width: 98
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_181
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 752
+        width: 98
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_182
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 754
+        width: 100
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_183
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 754
+        width: 100
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_184
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 752
+        width: 98
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_185
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 751
+        width: 98
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_186
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 751
+        width: 98
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_187
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 751
+        width: 102
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_188
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 751
+        width: 98
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_189
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 752
+        width: 98
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_190
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 754
+        width: 98
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_191
+      rect:
+        serializedVersion: 2
+        x: 2918
+        y: 754
+        width: 100
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_192
+      rect:
+        serializedVersion: 2
+        x: 3178
+        y: 752
+        width: 98
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_193
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 751
+        width: 98
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_194
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 752
+        width: 122
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_195
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 494
+        width: 129
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_196
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 494
+        width: 126
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_197
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 497
+        width: 130
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_198
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 497
+        width: 128
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_199
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 497
+        width: 121
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_200
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 496
+        width: 113
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_201
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 493
+        width: 119
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_202
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 494
+        width: 124
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_203
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 494
+        width: 128
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_204
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 492
+        width: 128
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_205
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 497
+        width: 128
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_206
+      rect:
+        serializedVersion: 2
+        x: 2891
+        y: 497
+        width: 129
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_207
+      rect:
+        serializedVersion: 2
+        x: 3157
+        y: 497
+        width: 119
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_208
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 496
+        width: 116
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: samurai_209
+      rect:
+        serializedVersion: 2
+        x: 3675
+        y: 493
+        width: 117
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
